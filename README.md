@@ -10,7 +10,7 @@ make install
 ```
 run application
 ```bash
-python run.py
+python3 run.py
 ```
 ## Setup Environment Variables & Run
 
