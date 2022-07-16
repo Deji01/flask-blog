@@ -1,6 +1,7 @@
 # flask-blog
 A blog site built with Flask
 
+
 ## Run Flaskblog 
 To run this project locally, clone this repo and follow these steps:
 
@@ -12,6 +13,7 @@ run application
 ```bash
 python3 run.py
 ```
+
 ## Setup Environment Variables & Run
 
 ```bash
